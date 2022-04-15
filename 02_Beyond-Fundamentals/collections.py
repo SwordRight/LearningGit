@@ -1,5 +1,5 @@
 # this is an array and it start at index zero
-stars = ['Sol','Alpha Centauri','Barnard','Wolf 359']
+stars = ['Sol', 'Alpha Centauri', 'Barnard', 'Wolf 359']
 
 # To access an element in an array by an index
 print(stars[3])
@@ -16,5 +16,8 @@ peaks = {
     'Pacific': 'Mauna Kea',
     'South_American': 'Aconcagua',
 }
-# To access an element in a map by a key 
-print(peaks['Pacific'])# To access an element in a map by a key
+# To access an element in a map by a key
+print(peaks['Pacific'])
+
+
+# end
