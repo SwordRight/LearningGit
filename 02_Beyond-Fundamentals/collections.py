@@ -17,4 +17,4 @@ peaks = {
     'South_American': 'Aconcagua',
 }
 # To access an element in a map by a key 
-print(peaks['Pacific'])
+print(peaks['Pacific'])# To access an element in a map by a key
